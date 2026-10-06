@@ -2,7 +2,7 @@
 
 > Upload any PDF or text document and have a full conversation with it using RAG, LangChain, and PyTorch — powered by Groq's free LLM API.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-0.2%2B-green)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
